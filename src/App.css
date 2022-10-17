@@ -1,0 +1,19 @@
+/* GLOBAL STYLE */
+* {
+  box-sizing: border-box;
+  font-family: monospace, sans-serif;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background-image: linear-gradient(to bottom, salmon, tomato);
+  margin: 0;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+/* MAIN STYLE */
